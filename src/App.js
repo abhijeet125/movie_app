@@ -52,7 +52,7 @@ function App() {
       <MoviesListHeader heading="Movies Box"/>
       <SearchBox searchValue={searchValue} setSearchValue={setSearchValue}/>
       </div>
-     <h1>Welcome to Movie App</h1>
+     <h1>Movie BoxOfiice</h1>
      <div className='row row-cols-auto'>
       <MovieList 
       movies={movies} 
